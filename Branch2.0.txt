@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Branch 2.0 
 
 After fix
+=======
+After branch3 created
+
+Commiting branch2.0
+>>>>>>> branch2.0
